@@ -1,1 +1,3 @@
-org\example\Main.class
+utils\DriverUtils.class
+pages\BasePageClass.class
+pages\MainPage.class
