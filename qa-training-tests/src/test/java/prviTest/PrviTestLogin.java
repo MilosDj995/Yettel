@@ -11,8 +11,6 @@ import static utils.DriverUtils.setUpDriver;
 public class PrviTestLogin {
     public static class OpenLoginPageTest {
         private WebDriver driver;
-        private final String EMAIL = "milos.djordjevic@transperfect.com";
-        private final String PASSWORD = "Password1!";
         @BeforeEach
         public void setUpDriverForTest(){
             driver = setUpDriver();
